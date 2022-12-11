@@ -22,37 +22,37 @@ Config.giftBoxes = {
     [1] = {
         name = "🎁 Small Giftbox",
         item = "giftbox_small",
-        cost = 5,
+        cost = 50,
         rewards = {
             {
-                item = "lockpick",
-                amount = 1
+                item = "weed_zkittlez_cbd_joint",
+                amount = 10
             },
             {
-                item = "drill",
-                amount = 1
+                item = "meth",
+                amount = 10
             },
             {
-                item = "oxy",
-                amount = 4
+                item = "coke_baggy",
+                amount = 10
             },
         }
     },
     [2] = {
         name = "🎁 Medium Giftbox",
         item = "giftbox_medium",
-        cost = 10,
+        cost = 75,
         rewards = {
             {
                 item = "advancedlockpick",
-                amount = 2
+                amount = 10
             },
             {
-                item = "thermite",
+                item = "boostingtablet",
                 amount = 1
             },
             {
-                item = "nitrous",
+                item = "spray",
                 amount = 2
             },
         }
@@ -60,14 +60,18 @@ Config.giftBoxes = {
     [3] = {
         name = "🎁 Large Giftbox",
         item = "giftbox_large",
-        cost = 20,
+        cost = 100,
         rewards = {
             {
-                item = "tunerlaptop",
+                item = "robbery_keycard_01",
                 amount = 1
             },
             {
-                item = "cryptostick",
+                item = "robbery_laptop_01",
+                amount = 1
+            },
+            {
+                item = "robbery_phone_01",
                 amount = 1
             },
         }
